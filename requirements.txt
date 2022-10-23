@@ -16,7 +16,8 @@ scipy==1.4.1
 Shapely==1.7.0
 tensorboard==2.2.2
 tensorboard-plugin-wit==1.6.0.post3
-torch
+torch==1.12.1
 torchvision
 tqdm==4.46.0
-wandb
+wandb==0.13.4
+fastai==2.7.9
