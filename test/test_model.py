@@ -9,3 +9,6 @@ def test_data():
 def test_model():
     print("Testing model")
     assert 3==3
+
+def test_train():
+    assert 1 == 1
